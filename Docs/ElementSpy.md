@@ -29,7 +29,6 @@ ElementSpy Method: constructor {#ElementSpy:constructor}
 
 A ElementSpy instance.
 
-
 ### Events:
 
 ### start
@@ -46,4 +45,20 @@ A ElementSpy instance.
 
 ### Signature
 
-	onStop()
+onStop()
+
+### change
+
+* (*function*) Function to when the value changes.
+
+### Signature
+
+onStagnate(value)
+
+### change
+
+* (*function*) Function to when the value stays the same.
+
+### Signature
+
+	onStagnate(value)
