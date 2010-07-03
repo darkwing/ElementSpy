@@ -1,7 +1,7 @@
 name:  ElementSpy
 author:  davidwalsh
-current:  
-category:  
-tags:  []
-docs:  
-demo:  
+current:  1.0
+category:  Utilities
+tags:  [element,event]
+docs:  http://davidwalsh.name/mootools-elementspy
+demo:  http://davidwalsh.name/mootools-elementspy
