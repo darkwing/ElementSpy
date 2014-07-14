@@ -45,7 +45,7 @@ A ElementSpy instance.
 
 ### Signature
 
-onStop()
+	onStop()
 
 ### change
 
@@ -53,7 +53,7 @@ onStop()
 
 ### Signature
 
-onStagnate(value)
+	onStagnate(value)
 
 ### change
 
